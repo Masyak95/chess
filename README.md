@@ -1,0 +1,1 @@
+Create chess in React and TypeScript. OOP practice.
